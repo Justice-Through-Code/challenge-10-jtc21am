@@ -61,6 +61,6 @@ print(np.mean(monthly_plays))
 # In this file, play a few tracks, and run display_playlist() again to make sure it works
 play_track(my_playlist, 1)
 play_track(my_playlist, 2)
-play_track(my_playlist, 20)
+play_track(my_playlist, 3)
 
 display_playlist(my_playlist)
