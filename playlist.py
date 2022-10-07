@@ -6,7 +6,7 @@ import numpy as np
 # NOTE: Since there is no user input in this assignment, feel free to leave your function calls uncommented when you turn it in!
 
 # 1.0 TODO: Import all of the functions in playlist_helpers.py into this file
-
+import numpy as np
 from playlist_helpers import *
 
 # This code initializes your playlist as an empty list. No songs in it yet!
