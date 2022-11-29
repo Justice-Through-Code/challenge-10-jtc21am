@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Run Tests",
-      "setup": "",
+      "setup": "pip install numpy",
       "run": "python -m unittest",
       "input": "",
       "output": "",
